@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RenovaSPA</name>
+    </assembly>
+    <members>
+        <member name="F:RenovaSPA.Form1.components">
+            <summary>
+            Es una variable requerida para el diseño.
+            </summary>
+        </member>
+        <member name="M:RenovaSPA.Form1.Dispose(System.Boolean)">
+            <summary>
+            Limpia los campos que son usados.
+            </summary>
+            <param name="disposing">Si regresa el valor "true" para ser manejados; de lo contrario, regresará, "false".</param>
+        </member>
+        <member name="M:RenovaSPA.Form1.InitializeComponent">
+            <summary>
+            Método requerido para hacer el diseño - No Modificar
+            el contenido del método con el editor de código.
+            </summary>
+        </member>
+        <member name="M:RenovaSPA.Program.Main">
+            <summary>
+            La entrada principal de la aplicación.
+            </summary>
+        </member>
+        <member name="T:RenovaSPA.Properties.Resources">
+            <summary>
+              Un tipo fuerte de recurso para la clase, para buscar los strigs localizados, etc.
+            </summary>
+        </member>
+        <member name="P:RenovaSPA.Properties.Resources.ResourceManager">
+            <summary>
+              Regresa lo que se captura de "ResourceManager" instanciado en el uso de esta clase.
+            </summary>
+        </member>
+        <member name="P:RenovaSPA.Properties.Resources.Culture">
+            <summary>
+              Rescribe la tarea "CurrentUICulture", propia para todos los recursos que se buscan usando 
+              los recursos remarcados en el uso de la clase.
+            </summary>
+        </member>
+        <member name="P:RenovaSPA.Properties.Resources.bueno">
+            <summary>
+              Mira los recursos localizados del sistema en "System.Drawing.Bitmap.".
+            </summary>
+        </member>
+        <member name="P:RenovaSPA.Properties.Resources.bueno1">
+            <summary>
+              Mira los recursos localizados del tipo "System.Drawing.Bitmap.".
+            </summary>
+        </member>
+        <member name="P:RenovaSPA.Properties.Resources.logo">
+            <summary>
+              Mira los recursos localizados del tipo "System.Drawing.Bitmap.".
+            </summary>
+        </member>
+        <member name="P:RenovaSPA.Properties.Resources.logo_app">
+            <summary>
+              Mira los recursos localizados de "System.Drawing.Bitmap.".
+            </summary>
+        </member>
+    </members>
+</doc>
